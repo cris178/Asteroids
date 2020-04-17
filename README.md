@@ -4,6 +4,11 @@ For EE/CS120B aka Embedded Systems at the University of California Riverside, st
 
 Asteroids is a classic Arcade game made in the year 1979 by video game company Atari. For my custom lab project I decided to remake the game with several modifications to the classic game. Starring a lone ship, the game had players avoid and confront incoming obstacles such as asteroids.
 
+## Demo
+
+- Watch a demo video
+  https://www.youtube.com/watch?v=eaqVpGNsSGg
+
 ### Prerequisites
 
 Because this is an Embedded Systems course there is a lot of requirements needed before using any of the code in this project.
@@ -27,7 +32,4 @@ The ATEMEGA's EEPROM kicks in as soon as the system turns off. When you turn it 
 - [Joystick](https://www.amazon.com/gp/product/B01N2G0H1T/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) - This is Arcade quality joystick used to control the game.
 - [LCD](https://www.amazon.com/Arducam-Display-Controller-Character-Backlight/dp/B019D9TYMI/ref=sr_1_3?keywords=lcd+arduino&qid=1553384176&s=gateway&sr=8-3) - This LCD displays the score of the game, High Score, and a custom character.
 
-## Demo
 
-- Watch a demo video
-  https://www.youtube.com/watch?v=eaqVpGNsSGg
