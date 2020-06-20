@@ -6,7 +6,7 @@ Asteroids is a classic Arcade game made in the year 1979 by video game company A
 
 ## Demo
 
-- Watch a demo video
+- **Watch a demo video**
   https://www.youtube.com/watch?v=eaqVpGNsSGg
 
 ### Prerequisites
